@@ -1,0 +1,2 @@
+# RoozegaarInternetBlocker-Releases
+Roozegaar Internet Blocker is a lightweight and easy-to-use Windows application designed to control internet access for desktop applications. Instead of relying on background services or databases, it uses native Windows Firewall rules to block or restore internet access quickly and securely. Users can easily add applications, enable or disable internet access with a single click, and manage firewall rules through a clean, modern, and intuitive interface.
